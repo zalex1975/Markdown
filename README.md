@@ -1,5 +1,5 @@
-# I'm learning Markdown markup language
+# __I'm learning Markdown markup language__
 ## Lesson one <br>
 ### Contents: <br>
-### - Introductory section <br>
-### - Syntax contents
+### - *Introductory section* <br>
+### - *Syntax contents*
