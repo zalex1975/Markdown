@@ -2,4 +2,8 @@
 ## Lesson one <br>
 ### Contents: <br>
 ### - *Introductory section* <br>
-### - *Syntax contents*
+### - *Syntax contents* <br>
+### - *Rules of use*
+
+## Lesson Two <br>
+### Contents: <br>
