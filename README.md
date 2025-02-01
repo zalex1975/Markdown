@@ -7,3 +7,6 @@
 
 ## Lesson Two <br>
 ### Contents: <br>
+### - *Create document* <br>
+### - *Modify document* <br>
+### - *Delete a document*
