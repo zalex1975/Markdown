@@ -5,7 +5,7 @@
 ### - *Syntax contents* <br>
 ### - *Rules of use*
 
-## Lesson Two <br>
+## Lesson two <br>
 ### Contents: <br>
 ### - *Create document* <br>
 ### - *Modify document* <br>
