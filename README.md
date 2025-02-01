@@ -122,7 +122,7 @@ New Document
 
 ## картинки
 
-[лысый кошан](C:\Users\User\Desktop\IMG_4858.jpg "кот просит кушать")
+[кот псих](https://www.google.ru/imgres?q=кот%20псих&imgurl=https%3A%2F%2Fwww.m24.ru%2Fb%2Fd%2FnBkSUhL2hFYnnMe-JL6BrNOp2Z318Ji-mijFnuWR9mOBdDebBizCnTY8qdJf6ReJ58vU9meMMok3Ee2nhSR6ISeO9G1N_wjJ%3DURzjlfmSHE-1ptig4pTBsw.jpg&imgrefurl=https%3A%2F%2Fwww.m24.ru%2Farticles%2Fnauka%2F04122021%2F158922&docid=PC3BtiD56ts2uM&tbnid=-9ksXYb4koTC-M&vet=12ahUKEwjc9_fGoKKLAxVT1wIHHWO9OaIQM3oECBoQAA..i&w=1200&h=900&hcb=2&ved=2ahUKEwjc9_fGoKKLAxVT1wIHHWO9OaIQM3oECBoQAA "кот псих")
 
 ## вставка кода
 
